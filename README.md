@@ -5,3 +5,4 @@ This repository is for interview perspective.
 
 1. Majority Element - Done
 2. Repeat & missing number - Done
+3. Merge 2 sorted array without xtra space - Done
