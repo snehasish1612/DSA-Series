@@ -13,7 +13,7 @@
 // Input: nums = [1]
 // Output: 1
 
-//Solution:- Using Bitwise XOR Operator Time Complexity: [O(n)], Space Complexity: [O(1)]
+//Solution using Bitwise XOR Operator: Time Complexity: O(n), Space Complexity: O(1)
 class Solution {
     public int singleNumber(int[] nums) {
         int result = 0;
