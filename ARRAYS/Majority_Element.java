@@ -11,7 +11,7 @@
 
 //Solution:-
 
-//Using Brute Force Approach [O(n^2)]
+//Using Brute Force Approach [O(n²)]
 class Solution {
     public int majorityElement(int[] nums) {
         int n = nums.length;
