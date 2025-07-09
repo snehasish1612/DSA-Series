@@ -12,7 +12,7 @@
 // Output: [9,5]
 // Explanation: Number 9 is repeated and number 5 is missing so the answer is [9,5].
 
-//Solution using HashSet
+//Solution using HashSet: Time Complexity: O(n²), Space Complexity: O(n²)
 class Solution {
     public int[] findMissingAndRepeatedValues(int[][] grid) {
         Set<Integer> seen = new HashSet<>();
