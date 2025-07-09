@@ -22,7 +22,7 @@
 // The result of the merge is [1].
 // Note that because m = 0, there are no elements in nums1. The 0 is only there to ensure the merge result can fit in nums1.
 
-//Solution:- Time Complexity: [O(m + n)], Space Complexity: [O(1)]
+//Solution:- Time Complexity: O(m + n), Space Complexity: O(1)
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int idx = m + n - 1, i = m - 1, j = n - 1;
