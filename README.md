@@ -7,3 +7,4 @@ This repository is for interview perspective.
 2. Repeat & missing number - Done
 3. Merge 2 sorted array without xtra space - Done
 4. Single Number - Done
+5. Stock Buy & Sell - Done
