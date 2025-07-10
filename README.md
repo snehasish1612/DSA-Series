@@ -9,3 +9,4 @@ This repository is for interview perspective.
 4. Single Number - Done
 5. Stock Buy & Sell - Done
 6. Kadane's Algorithm - Done
+7. Pow xn - Done
