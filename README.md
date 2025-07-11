@@ -11,4 +11,5 @@ This repository is for interview perspective.
 6. Kadane's Algorithm - Done
 7. Pow xn - Done
 8. Container with most water - Done
-9. Sort array of 0s, 1s & 2s
+9. Sort array of 0s, 1s & 2s - Done
+10. 3Sum - Done
