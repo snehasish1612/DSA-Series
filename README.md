@@ -14,3 +14,4 @@ This repository is for interview perspective.
 9. Sort array of 0s, 1s & 2s - Done
 10. 3Sum - Done
 11. 4Sum - Done
+12. Search a 2D matrix - Done
