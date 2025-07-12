@@ -15,3 +15,4 @@ This repository is for interview perspective.
 10. 3Sum - Done
 11. 4Sum - Done
 12. Search a 2D matrix - Done
+13. Next permutation - Done
