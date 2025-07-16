@@ -23,7 +23,7 @@ This repository contains solutions to important Data Structures and Algorithms (
 | 14 | Merge Overlapping Intervals                  | ✅ Done |
 | 15 | Longest Substring Without Repeating Characters | ✅ Done |
 | 16 | Set Matrix Zeroes                            | ✅ Done |
-| 18 | Product of array except itself               | ✅ Done |
+| 17 | Product of array except itself               | ✅ Done |
 
 ---
 
