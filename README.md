@@ -1,21 +1,35 @@
-# DSA-Series
-This repository is for interview perspective.
+# 📘 DSA-Series
+This repository contains solutions to important Data Structures and Algorithms (DSA) problems, curated from an interview preparation perspective.
 
-#ARRAYS
+---
 
-1. Majority Element - Done
-2. Repeat & missing number - Done
-3. Merge 2 sorted array without xtra space - Done
-4. Single Number - Done
-5. Stock Buy & Sell - Done
-6. Kadane's Algorithm - Done
-7. Pow xn - Done
-8. Container with most water - Done
-9. Sort array of 0s, 1s & 2s - Done
-10. 3Sum - Done
-11. 4Sum - Done
-12. Search a 2D matrix - Done
-13. Next permutation - Done
-14. Merge overlapping intervals - Done
-15. Longest substring without repeating - Done
-16. Set matrix zeroes - Done
+## 📂 ARRAYS
+
+| #  | Problem                                      | Status |
+|----|----------------------------------------------|--------|
+| 1  | Majority Element                             | ✅ Done |
+| 2  | Repeat & Missing Number                      | ✅ Done |
+| 3  | Merge Two Sorted Arrays Without Extra Space  | ✅ Done |
+| 4  | Single Number                                | ✅ Done |
+| 5  | Stock Buy & Sell                             | ✅ Done |
+| 6  | Kadane's Algorithm                           | ✅ Done |
+| 7  | Pow (xⁿ)                                     | ✅ Done |
+| 8  | Container With Most Water                    | ✅ Done |
+| 9  | Sort Array of 0s, 1s & 2s                    | ✅ Done |
+| 10 | 3Sum                                         | ✅ Done |
+| 11 | 4Sum                                         | ✅ Done |
+| 12 | Search a 2D Matrix                           | ✅ Done |
+| 13 | Next Permutation                             | ✅ Done |
+| 14 | Merge Overlapping Intervals                  | ✅ Done |
+| 15 | Longest Substring Without Repeating Characters | ✅ Done |
+| 16 | Set Matrix Zeroes                            | ✅ Done |
+
+---
+
+### 📌 Author
+Snehasish Mukherjee
+
+📧 [snehasish1612@gmail.com](mailto:snehasish1612@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/snehasish1612)
+
+---
