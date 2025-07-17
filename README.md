@@ -24,6 +24,7 @@ This repository contains solutions to important Data Structures and Algorithms (
 | 15 | Longest Substring Without Repeating Characters | ✅ Done |
 | 16 | Set Matrix Zeroes                            | ✅ Done |
 | 17 | Product of array except itself               | ✅ Done |
+| 18 | Subarray sum equals k                        | ✅ Done |
 
 ---
 
