@@ -16,7 +16,7 @@
 
 //Solution:-
 
-//Using HashSet: Time Complexity	O(n) - linear scan, Space Complexity	O(n) - due to the HashSet
+//Using HashSet: Time Complexity: O(n) - linear scan, Space Complexity: O(n) - due to the HashSet
 class Solution {
     public int findDuplicate(int[] nums) {
         Set<Integer> set = new HashSet<>();
