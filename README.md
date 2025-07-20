@@ -26,6 +26,7 @@ This repository contains solutions to important Data Structures and Algorithms (
 | 17 | Product of array except itself               | ✅ Done |
 | 18 | Subarray sum equals k                        | ✅ Done |
 | 19 | Find Duplicate                               | ✅ Done |
+| 20 | Count Inversions                             | ✅ Done |
 
 ---
 
