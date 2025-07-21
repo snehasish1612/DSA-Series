@@ -27,6 +27,7 @@ This repository contains solutions to important Data Structures and Algorithms (
 | 18 | Subarray sum equals k                        | ✅ Done |
 | 19 | Find Duplicate                               | ✅ Done |
 | 20 | Count Inversions                             | ✅ Done |
+| 21 | Trapping Rainwater                           | ✅ Done |
 
 ---
 
