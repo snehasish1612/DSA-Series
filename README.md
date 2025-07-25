@@ -31,6 +31,13 @@ This repository contains solutions to important Data Structures and Algorithms (
 
 ---
 
+## 📂 BINARY SEARCH
+
+| #  | Problem                                      | Status |
+|----|----------------------------------------------|--------|
+| 1  | Search in rotated sorted                     | ✅ Done |
+
+---
 ### 📌 Author
 Snehasish Mukherjee
 
