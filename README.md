@@ -36,6 +36,7 @@ This repository contains solutions to important Data Structures and Algorithms (
 | #  | Problem                                      | Status |
 |----|----------------------------------------------|--------|
 | 1  | Search in rotated sorted                     | ✅ Done |
+| 2  | Peak index in mountain array                 | ✅ Done |
 
 ---
 ### 📌 Author
